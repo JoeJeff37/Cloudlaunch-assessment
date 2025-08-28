@@ -4,7 +4,6 @@ This repository documents the setup of the **CloudLaunch environment** on
 AWS as part of the Cloud Engineering project.
 
 ---
-
 ## Tools & Services Used
 
 - **AWS Services:** S3, CloudFront, VPC, IAM
