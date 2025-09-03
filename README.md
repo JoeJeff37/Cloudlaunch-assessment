@@ -94,6 +94,7 @@ for future CloudLaunch workloads.
 
 An IAM user cloudlaunch-user was created with limited permissions. The attached JSON policy is:
 
+```json
 {
   "Version": "2012-10-17",
     "Statement": [
@@ -151,3 +152,4 @@ The attached JSON policy is:
 - VPC setup is documented and functional, though actual EC2 instance testing was not required for this task.
 
 ---
+
