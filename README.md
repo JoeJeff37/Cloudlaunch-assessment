@@ -95,7 +95,7 @@ for future CloudLaunch workloads.
 An IAM user cloudlaunch-user was created with limited permissions. The attached JSON policy is:
 
 {
-    "Version": "2012-10-17",
+  "Version": "2012-10-17",
     "Statement": [
         {
             "Effect": "Allow",
